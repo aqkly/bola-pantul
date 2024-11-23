@@ -1,0 +1,19 @@
+*{
+    box-sizing:border-box;
+}
+
+body{
+    margin:0;
+    height:100vh;
+    background-color: #a8adaa;
+}
+
+h2{
+    color:#ffffff;
+    position:fixed;
+    top:60px;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+    text-align: center;
+}
